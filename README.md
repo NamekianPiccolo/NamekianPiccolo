@@ -23,7 +23,7 @@
 <!-- ============================================================ -->
 <!-- ABOUT ME (DIRECT, TECHNICAL & AUTHENTIC)                     -->
 <!-- ============================================================ -->
-## 👨‍💻 Tentang Saya
+## 👨‍💻 About Me
 
 ```yaml
 identity:
@@ -114,8 +114,6 @@ Gw Adalah Gw
 <!-- ============================================================ -->
 <!-- CONNECT WITH ME (VERIFIED CHANNELS)                          -->
 <!-- ============================================================ -->
-## 🤝 Terhubung & Kolaborasi
-
 <div align="center">
   <a href="https://github.com/NamekianPiccolo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-NamekianPiccolo-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
