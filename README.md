@@ -10,7 +10,7 @@
 <!-- ============================================================ -->
 <div align="center">
   <a href="https://github.com/NamekianPiccolo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=540&lines=Software+Engineer+%7C+Web+%26+Mobile+AI+Builder;MediaPipe+ML+%E2%80%A2+Modern+Laravel+%E2%80%A2+Node.js;Zero+AI+Slop%3A+Membangun+sistem+yang+berdaya+guna" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=540&lines=Software+Engineer+%7C+Web+%26;MediaPipe+ML+%E2%80%A2+Modern+Laravel+%E2%80%A2+Node.js;Zero+AI+Slop%3A+Membangun+sistem+yang+berdaya+guna" alt="Typing SVG" />
   </a>
   <br/>
   <a href="https://github.com/NamekianPiccolo">
