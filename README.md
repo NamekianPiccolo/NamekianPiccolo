@@ -2,7 +2,7 @@
 <!-- HEADER BANNER: NAMEKIAN GREEN PALETTE                         -->
 <!-- ============================================================ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:059669,100:10b981&height=220&section=header&text=Andre%20Saputra%20%F0%9F%AA%90&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20from%20Planet%20Namek&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:059669,100:10b981&height=220&section=header&text=Andre%20Saputra%20%F0%9F%AA%90&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
 <!-- ============================================================ -->
