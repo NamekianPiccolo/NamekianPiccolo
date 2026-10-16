@@ -100,7 +100,6 @@ Gw Adalah Gw
 <!-- ============================================================ -->
 <!-- CONTRIBUTION GRAPH SNAKE ANIMATION                           -->
 <!-- ============================================================ -->
-## 🐍 Jalur Kode Snake Graph
 
 <div align="center">
   <picture>
