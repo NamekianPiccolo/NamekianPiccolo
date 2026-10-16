@@ -34,25 +34,14 @@ identity:
   philosophy: "Keindahan kode diukur dari kenyamanan pengguna saat berinteraksi dengannya."
 ```
 
-Saya adalah pengembang perangkat lunak yang berfokus pada **arsitektur backend yang andal**, **rekayasa antarmuka interaktif performa tinggi**, dan **integrasi Machine Learning di perangkat mobile**. 
+Gw Adalah Gw
 
-* ⚡ **Prinsip Rekayasa:** *Zero AI Slop*. Menolak kode template yang membengkak, mengutamakan struktur modular yang bersih, teruji, dan dapat dirawat dalam jangka panjang.
-* 🛠️ **Fokus Saat Ini:** Membangun aplikasi hybrid berbasis Rust & Tauri untuk komputasi AI *offline-first* di Android, serta otomatisasi alur kerja web dengan integrasi LLM.
-* 💬 **Diskusi Terbuka:** Fullstack Web (Laravel / PHP / Node.js), MediaPipe Pose Estimation, Bot Automation, dan optimasi query database.
 
 <br/>
 
 <!-- ============================================================ -->
 <!-- FEATURED FLAGSHIP PROJECTS (BUKTI KERJA NYATA)               -->
 <!-- ============================================================ -->
-## 🚀 Proyek Pilihan (Verified Engineering)
-
-| Proyek & Repositori | Deskripsi Arsitektur Teknis | Stack Utama |
-| :--- | :--- | :--- |
-| **[fitVision AI Pro](https://github.com/NamekianPiccolo/fitPro)** | Pelacak gerakan olahraga *real-time* berbasis pose landmarks. Model klasifikasi Random Forest diekspor langsung ke JavaScript agar berjalan cepat secara **100% offline** di WebView Android via Tauri. | `MediaPipe` `Tauri (Rust)` `Python ML` `JavaScript` |
-| **[Piccolo AI Assistant](https://github.com/NamekianPiccolo/Ai-Asistant)** | Bot asisten kalender percakapan alami (Discord Bot) berbasis Gemini AI untuk parsing jadwal relatif bahasa manusia, terhubung otomatis ke Google Calendar via *webhook* n8n. | `Node.js` `Gemini AI` `n8n Webhook` `Docker` |
-| **[64mart Inventory System](https://github.com/NamekianPiccolo/64mart)** | Sistem manajemen minimarket *full-stack* lengkap dengan dasbor analitik penjualan, pencatatan transaksi kasir multi-item, dan kontrol inventori stok *real-time*. | `Laravel` `PHP` `JavaScript` `MySQL` |
-| **[Laundry Admin Master](https://github.com/NamekianPiccolo/aplikasi-pengelolaan-laundry-master)** | Platform operasional administrasi laundry berbasis Native PHP dengan modul pelacakan status pakaian, kalkulasi tagihan otomatis, dan cetak invoice. | `PHP Native` `CSS Grid` `Relational DB` |
 
 <br/>
 
