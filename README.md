@@ -23,15 +23,15 @@
 <!-- ============================================================ -->
 <!-- ABOUT ME (DIRECT, TECHNICAL & AUTHENTIC)                     -->
 <!-- ============================================================ -->
-## 👨‍💻 About Me
+##  About Me
 
 ```yaml
 identity:
   name: Andre Saputra
-  alias: NamekianPiccolo 🪐
+  alias: NamekSeijin
   role: Software Engineer & Web Developer
   base: Indonesia (Open for Remote & Collaboration)
-  philosophy: "Keindahan kode diukur dari kenyamanan pengguna saat berinteraksi dengannya."
+  philosophy: "The true elegance of code is measured by the seamless experience of the user."
 ```
 
 Gw Adalah Gw
@@ -48,7 +48,7 @@ Gw Adalah Gw
 <!-- ============================================================ -->
 <!-- TECH ARSENAL & TOOLS                                         -->
 <!-- ============================================================ -->
-## 🛠️ Arsenal Teknologi & Lingkungan Kerja
+## Tech Arsenal & Workspace
 
 ### 💻 Bahasa Pemrograman
 <p align="left">
